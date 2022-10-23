@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"..\\components\\cards\\SingleCourseJumbotron.js -> react-player":{id:22004,files:["static/chunks/4-2732bafebb1c48ce.js"]},"..\\components\\modal\\PreviewModal.js -> react-player":{id:22004,files:["static/chunks/4-2732bafebb1c48ce.js"]}};
